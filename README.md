@@ -2,7 +2,7 @@
 
 ### 🎓 Estudiante de Ingeniería en Sistemas Computacionales | Desarrollador y Modelador 3D
 
-Soy un apasionado por la tecnología, la programación de bajo nivel y la creación de experiencias interactivas. Actualmente busco mi primer acercamiento al mundo profesional (servicio social / prácticas) donde pueda aportar mis conocimientos en lógica, bases de datos y creación de assets 3D.
+Soy un apasionado por la tecnología, la programación de bajo nivel, conocimiento en componentes de computo y la creación de experiencias interactivas. Actualmente busco mi primer acercamiento al mundo profesional (servicio social / prácticas) donde pueda aportar mis conocimientos en lógica, bases de datos y creación de assets 3D.
 
 ---
 
@@ -10,7 +10,7 @@ Soy un apasionado por la tecnología, la programación de bajo nivel y la creaci
 - 🏫 Estudiando Ingeniería en Sistemas Computacionales en la Universidad ICEL.
 - 💻 Enfocado en el desarrollo con **C** y gestión de bases de datos con **SQL**.
 - 🎨 Creando y optimizando modelos 3D en **Blender** para aplicaciones y videojuegos.
-- 🌱 Aprendiendo constantemente sobre desarrollo web (HTML, CSS) y motores gráficos.
+- 🌱 Aprendiendo constantemente sobre el desarrollo de motores gráficos.
 - 🎯 Mi objetivo: Unirme a un equipo de desarrollo para aplicar mis habilidades técnicas en proyectos reales.
 
 ---
@@ -46,6 +46,11 @@ Colección de proyectos académicos y personales enfocados en la resolución de 
 - **Tecnologías:** C, SQL.
 - **🔗 [Ver repositorio de código C](https://github.com/Iosif09/Practicas-C)**
 - **🔗 [Ver repositorio de Bases de Datos](https://github.com/Iosif09/Bases-de-Datos)**
+
+### Otros Proyectos y Practicas
+Realice practicas de mantenimiento tanto **Software** como **Hardware** de computadoras y dispositivos electronicos.
+- **Videos de Practicas:**
+- **🔗Canal de YouTube: (https://youtube.com/@iosif09?si=GaSBAuwKHi4gRh7P)**
 
 ---
 
