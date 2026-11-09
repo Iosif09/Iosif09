@@ -1,16 +1,57 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy José / Iosif
 
-<!--
-**Iosif09/Iosif09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudiante de Ingeniería en Sistemas Computacionales | Desarrollador y Modelador 3D
 
-Here are some ideas to get you started:
+Soy un apasionado por la tecnología, la programación de bajo nivel y la creación de experiencias interactivas. Actualmente busco mi primer acercamiento al mundo profesional (servicio social / prácticas) donde pueda aportar mis conocimientos en lógica, bases de datos y creación de assets 3D.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Sobre mí
+- 🏫 Estudiando Ingeniería en Sistemas Computacionales en la Universidad ICEL.
+- 💻 Enfocado en el desarrollo con **C** y gestión de bases de datos con **SQL**.
+- 🎨 Creando y optimizando modelos 3D en **Blender** para aplicaciones y videojuegos.
+- 🌱 Aprendiendo constantemente sobre desarrollo web (HTML, CSS) y motores gráficos.
+- 🎯 Mi objetivo: Unirme a un equipo de desarrollo para aplicar mis habilidades técnicas en proyectos reales.
+
+---
+
+### 🧰 Mis Habilidades Técnicas
+
+<p align="left">
+  <b>Lenguajes y Bases de Datos:</b><br>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</p>
+
+<p align="left">
+  <b>Modelado 3D y Herramientas:</b><br>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
+### 💡 Proyectos Destacados
+
+#### 📦 Portafolio de Modelado 3D (Aplicación Móvil)
+Diseñé y modelé assets 3D utilizando **Blender**, exportándolos en formato `.glb` optimizados para su integración en una aplicación móvil. El repositorio incluye un visor 3D interactivo integrado directamente en el README.
+- **Tecnologías:** Blender, formato .glb, Git.
+- **🔗 [Ver repositorio con visor 3D aquí](https://github.com/Iosif09/Portafolio-Modelos-3D)**
+
+#### 💻 Prácticas de Programación y Bases de Datos
+Colección de proyectos académicos y personales enfocados en la resolución de problemas mediante el lenguaje **C** y la estructuración de datos con **SQL**.
+- **Tecnologías:** C, SQL.
+- **🔗 [Ver repositorio de código C](https://github.com/Iosif09/Practicas-C)**
+- **🔗 [Ver repositorio de Bases de Datos](https://github.com/Iosif09/Bases-de-Datos)**
+
+---
+
+### 📫 Conéctate conmigo
+<p align="left">
+  <a href="mailto:roblesgeduardo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contactame-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
