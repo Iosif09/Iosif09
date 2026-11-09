@@ -44,13 +44,13 @@ Diseñé y modelé assets 3D utilizando **Blender**, exportándolos en formato `
 #### 💻 Prácticas de Programación y Bases de Datos
 Colección de proyectos académicos y personales enfocados en la resolución de problemas mediante el lenguaje **C** y la estructuración de datos con **SQL**.
 - **Tecnologías:** C, SQL.
-- **🔗 [Ver repositorio de código C](https://github.com/Iosif09/Practicas-C)**
-- **🔗 [Ver repositorio de Bases de Datos](https://github.com/Iosif09/Bases-de-Datos)**
+- **🔗 [Repositorio de código C](https://github.com/Iosif09/Practicas-C)**
+- **🔗 [Repositorio de Bases de Datos](https://github.com/Iosif09/Bases-de-Datos)**
 
 ### Otros Proyectos y Practicas
 Realice practicas de mantenimiento tanto **Software** como **Hardware** de computadoras y dispositivos electronicos.
 - **Videos de Practicas:**
-- **🔗Canal de YouTube: (https://youtube.com/@iosif09?si=GaSBAuwKHi4gRh7P)**
+- **🔗Canal de YouTube: [YouTube/@iosif09](https://youtube.com/@iosif09?si=GaSBAuwKHi4gRh7P)**
 
 ---
 
