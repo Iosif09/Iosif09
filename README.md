@@ -39,7 +39,7 @@ Soy un apasionado por la tecnología, la programación de bajo nivel, conocimien
 #### 📦 Portafolio de Modelado 3D (Aplicación Móvil)
 Diseñé y modelé assets 3D utilizando **Blender**, exportándolos en formato `.glb` optimizados para su integración en una aplicación móvil. El repositorio incluye un visor 3D interactivo integrado directamente en el README.
 - **Tecnologías:** Blender, formato .glb, Git.
-- **🔗 [Ver repositorio con visor 3D aquí](https://github.com/Iosif09/Portafolio-Modelos-3D)**
+- **🔗 [Repositorio con Visor 3D](https://github.com/Iosif09/Portafolio-Modelos-3D)**
 
 #### 💻 Prácticas de Programación y Bases de Datos
 Colección de proyectos académicos y personales enfocados en la resolución de problemas mediante el lenguaje **C** y la estructuración de datos con **SQL**.
